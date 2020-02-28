@@ -1,10 +1,10 @@
 <p float="left">
-<a href="../../"><img src="https://img.shields.io/github/languages/top/Base24/base16-microsoftterminal-scheme.svg?style=flat-square" alt="Github top language"></a>
-<a href="../../"><img src="https://img.shields.io/github/repo-size/Base24/base16-microsoftterminal-scheme.svg?style=flat-square" alt="Repository size"></a>
-<a href="../../issues"><img src="https://img.shields.io/github/issues/Base24/base16-microsoftterminal-scheme.svg?style=flat-square" alt="Issues"></a>
-<a href="/LICENSE.md"><img src="https://img.shields.io/github/license/Base24/base16-microsoftterminal-scheme.svg?style=flat-square" alt="License"></a>
-<a href="../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/Base24/base16-microsoftterminal-scheme.svg?style=flat-square" alt="Commit activity"></a>
-<a href="../../commits/master"><img src="https://img.shields.io/github/last-commit/Base24/base16-microsoftterminal-scheme.svg?style=flat-square" alt="Last commit"></a>
+<a href="../../"><img src="https://img.shields.io/github/languages/top/Base24/base16-windows-terminal.svg?style=flat-square" alt="Github top language"></a>
+<a href="../../"><img src="https://img.shields.io/github/repo-size/Base24/base16-windows-terminal.svg?style=flat-square" alt="Repository size"></a>
+<a href="../../issues"><img src="https://img.shields.io/github/issues/Base24/base16-windows-terminal.svg?style=flat-square" alt="Issues"></a>
+<a href="/LICENSE.md"><img src="https://img.shields.io/github/license/Base24/base16-windows-terminal.svg?style=flat-square" alt="License"></a>
+<a href="../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/Base24/base16-windows-terminal.svg?style=flat-square" alt="Commit activity"></a>
+<a href="../../commits/master"><img src="https://img.shields.io/github/last-commit/Base24/base16-windows-terminal.svg?style=flat-square" alt="Last commit"></a>
 </p>
 
 # base16-microsoftterminal
