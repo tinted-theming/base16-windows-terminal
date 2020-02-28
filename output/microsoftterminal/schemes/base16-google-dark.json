@@ -1,0 +1,22 @@
+// Add custom color schemes to the "schemes" array
+{
+	"name": "Google Dark",
+	"foreground": "#c5c8c6",
+	"background": "#1d1f21",
+	"black": "#282a2e",
+	"blue": "#3971ED",
+	"brightBlack": "#373b41",
+	"brightBlue": "#3971ED",
+	"brightCyan": "#3971ED",
+	"brightGreen": "#198844",
+	"brightPurple": "#A36AC7",
+	"brightRed": "#CC342B",
+	"brightWhite": "#ffffff",
+	"brightYellow": "#FBA922",
+	"cyan": "#3971ED",
+	"green": "#198844",
+	"purple": "#A36AC7",
+	"red": "#CC342B",
+	"white": "#e0e0e0",
+	"yellow": "#F96A38"
+},
