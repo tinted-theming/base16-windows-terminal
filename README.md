@@ -1,3 +1,8 @@
+**Deprecated**: base16-windows-terminal and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 <p float="left">
 <a href="../../"><img src="https://img.shields.io/github/languages/top/Base24/base16-windows-terminal.svg?style=flat-square" alt="Github top language"></a>
 <a href="../../"><img src="https://img.shields.io/github/repo-size/Base24/base16-windows-terminal.svg?style=flat-square" alt="Repository size"></a>
